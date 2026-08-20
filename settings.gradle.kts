@@ -5,6 +5,7 @@ rootProject.name = "CloudstreamPlugins"
 
 // Plugins are included like this
 include(
+    ":NgefilmProvider",
     "XcineProvider",
     "StreamingcommunityProvider",
     "FilmanProvider",
